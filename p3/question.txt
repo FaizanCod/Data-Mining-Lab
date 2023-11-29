@@ -1,0 +1,1 @@
+Take 5 word txt files with some content, filter them out using stopwords and extract cosine similarity between the common words in these files

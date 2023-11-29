@@ -1,0 +1,4 @@
+Consider some domain questions and answers of a use case
+
+Given a new question find out the closest answer
+Generate BOW vectors for the new question and find the most similar answer using cosine similarity
